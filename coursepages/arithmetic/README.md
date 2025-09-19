@@ -4,7 +4,9 @@
 - [x] Arithmetic Course--Class 1: An Introduction, Course Content, and Staying Organized
 - [x] Arithmetic Course--Class 2: Introduction to Numbers
 - [x] Arithmetic Course--Class 3: Adding Whole Numbers
-- [] Arithmetic Course--Class 4: Subtracting Whole Numbers
+- [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
+- [] Arithmetic Course--Class 5: Memorizing Products
+
 `addition`
 `subtraction`
 `multiplication`
