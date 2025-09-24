@@ -33,8 +33,8 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 - [x] XtraMath Addition
 - [x] XtraMath Subtraction
 - [x] XtraMath Multiplication
-- [] XtraMath Division
-- [] Arithmetic Course--Class 5: Memorizing Products
+- [x] XtraMath Division
+- [x] Arithmetic Course--Class 5: Memorizing Products
 - [] Arithmetic Course--Class 6: Multiplying Multi-Digit Whole Numbers
 - [] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
 - [] Arithmetic Course--Class 8: Dividing Whole Numbers-Part II
