@@ -1,16 +1,6 @@
 # Arithmetic Course
 
 **Topics covered**:
-- [x] Arithmetic Course--Class 1: An Introduction, Course Content, and Staying Organized
-- [x] Arithmetic Course--Class 2: Introduction to Numbers
-- [x] Arithmetic Course--Class 3: Adding Whole Numbers
-- [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
-- [x] XtraMath Addition
-- [x] XtraMath Subtraction
-- [x] XtraMath Multiplication
-- [] XtraMath Division
-- [] Arithmetic Course--Class 5: Memorizing Products
-
 `addition`
 `subtraction`
 `multiplication`
@@ -33,6 +23,52 @@
 This course was created by [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486). The entirety of this course is contained in the following YouTube playlist, including all of your homework and tests.
 
 **Course Playlist:** <https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ>
+
+## classes
+
+- [x] Arithmetic Course--Class 1: An Introduction, Course Content, and Staying Organized
+- [x] Arithmetic Course--Class 2: Introduction to Numbers
+- [x] Arithmetic Course--Class 3: Adding Whole Numbers
+- [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
+- [x] XtraMath Addition
+- [x] XtraMath Subtraction
+- [x] XtraMath Multiplication
+- [] XtraMath Division
+- [] Arithmetic Course--Class 5: Memorizing Products
+- [] Arithmetic Course--Class 6: Multiplying Multi-Digit Whole Numbers
+- [] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
+- [] Arithmetic Course--Class 8: Dividing Whole Numbers-Part II
+- [] Arithmetic Course--Class 9: Review for Test I
+- [] Arithmetic Course--Class 10: Test I
+- [] Arithmetic Course--Class 11: Fractions and Fraction Equivalency
+- [] Arithmetic Course--Classs 12: Adding and Subtracting Fractions
+- [] Arithmetic Course--Class 13: Multiplying and Dividing Fractions
+- [] Arithmetic Course--Class 14: Adding and Subtracting Mixed Numbers
+- [] Arithmetic Course--Class 15: Multiplying and Dividing Mixed Numbers-
+- [] Arithmetic Course--Class 16: Review for Test II
+- [] Arithmetic Course--Class 17: Test II
+- [] Arithmetic Course--Class 18: Introduction to Decimals
+- [] Arithmetic Course--Class 19: Operations with Decimals Part I
+- [] Arithmetic Course--Class 20: Operations with Decimals (Part II)
+- [] Arithmetic Course--Class 21: Percents and Converting between All Three Forms of fractions
+- [] Arithmetic Course--Class 22: Applications of Percents
+- [] Arithmetic Course--Class 23: The Order of Operations Agreement and Geometric Formulas
+- [] Arithmetic Course--Class 24: Further Applications of the Order of Operations Agreement
+- [] Arithmetic Course--Class 25: Ratios and Rates
+- [] Arithmetic Course--Class 26: Proportions
+- [] Arithmetic Course--Class 27: Rounding
+- [] Arithmetic Course--Class 28: Basic Statistics and Graphs
+- [] Arithmetic Course--Class 29: Review for Test III
+- [] Arithmetic Course--Class 30: Test III
+- [] Arithmetic Course--Class 31: Review for Test IV
+- [] Arithmetic Course--Class 32: Test IV
+- [] Arithmetic Course--Class 33: A Few More Things
+- [] Arithmetic Course--Class 34: A Few More Things (Part II)
+- [] Arithmetic Course--Class 35: Multistep Word Problems
+- [] Arithmetic Course--Class 36: Competitive Tests
+- [] Arithmetic Course--Class 37: Review for the Final Exam
+- [] Arithmetic Course--Class 38: The Final Exam
+- [] Arithmetic Course--Class 39: Calculating Your Grade for the Course
 
 ## Instructions:
 
