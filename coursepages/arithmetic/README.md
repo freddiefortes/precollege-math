@@ -7,7 +7,7 @@
 - [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
 - [x] XtraMath Addition
 - [x] XtraMath Subtraction
-- [] XtraMath Multiplication
+- [x] XtraMath Multiplication
 - [] XtraMath Division
 - [] Arithmetic Course--Class 5: Memorizing Products
 
