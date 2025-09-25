@@ -1,30 +1,6 @@
 # Arithmetic Course
 
-**Topics covered**:
-`addition`
-`subtraction`
-`multiplication`
-`division`
-`fractions`
-`decimals`
-`percents`
-`order of operations`
-`basic geometry`
-`interest`
-`ratios`
-`rounding`
-`basic statistics`
-`inequalities`
-`mixed numbers`
-`word problems`
-`math properties`
-`and more`
-
-This course was created by [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486). The entirety of this course is contained in the following YouTube playlist, including all of your homework and tests.
-
-**Course Playlist:** <https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ>
-
-## classes
+## progress
 
 - [x] Arithmetic Course--Class 1: An Introduction, Course Content, and Staying Organized
 - [x] Arithmetic Course--Class 2: Introduction to Numbers
@@ -36,11 +12,9 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 - [x] XtraMath Division
 - [x] Arithmetic Course--Class 5: Memorizing Products
 - [x] Arithmetic Course--Class 6: Multiplying Multi-Digit Whole Numbers
-- [] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
-- [] Arithmetic Course--Class 8: Dividing Whole Numbers-Part II
-- [] Arithmetic Course--Class 9: Review for Test I
-- [] Arithmetic Course--Class 10: Test I
-- [] Arithmetic Course--Class 11: Fractions and Fraction Equivalency
+- [x] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
+- [x] Arithmetic Course--Class 8: Dividing Whole Numbers-Part II
+- [x] Arithmetic Course--Class 11: Fractions and Fraction Equivalency
 - [] Arithmetic Course--Classs 12: Adding and Subtracting Fractions
 - [] Arithmetic Course--Class 13: Multiplying and Dividing Fractions
 - [] Arithmetic Course--Class 14: Adding and Subtracting Mixed Numbers
@@ -69,6 +43,32 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 - [] Arithmetic Course--Class 37: Review for the Final Exam
 - [] Arithmetic Course--Class 38: The Final Exam
 - [] Arithmetic Course--Class 39: Calculating Your Grade for the Course
+
+---
+
+**Topics covered**:
+`addition`
+`subtraction`
+`multiplication`
+`division`
+`fractions`
+`decimals`
+`percents`
+`order of operations`
+`basic geometry`
+`interest`
+`ratios`
+`rounding`
+`basic statistics`
+`inequalities`
+`mixed numbers`
+`word problems`
+`math properties`
+`and more`
+
+This course was created by [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486). The entirety of this course is contained in the following YouTube playlist, including all of your homework and tests.
+
+**Course Playlist:** <https://www.youtube.com/playlist?list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ>
 
 ## Instructions:
 
