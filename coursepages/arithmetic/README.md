@@ -15,8 +15,8 @@
 - [x] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
 - [x] Arithmetic Course--Class 8: Dividing Whole Numbers-Part II
 - [x] Arithmetic Course--Class 11: Fractions and Fraction Equivalency
-- [] Arithmetic Course--Classs 12: Adding and Subtracting Fractions
-- [] Arithmetic Course--Class 13: Multiplying and Dividing Fractions
+- [x] Arithmetic Course--Classs 12: Adding and Subtracting Fractions
+- [x] Arithmetic Course--Class 13: Multiplying and Dividing Fractions
 - [] Arithmetic Course--Class 14: Adding and Subtracting Mixed Numbers
 - [] Arithmetic Course--Class 15: Multiplying and Dividing Mixed Numbers-
 - [] Arithmetic Course--Class 16: Review for Test II
