@@ -6,10 +6,10 @@
 - [x] Arithmetic Course--Class 2: Introduction to Numbers
 - [x] Arithmetic Course--Class 3: Adding Whole Numbers
 - [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
-- [x] XtraMath Addition
-- [x] XtraMath Subtraction
-- [x] XtraMath Multiplication
-- [x] XtraMath Division
+- [x] XtraMath Addition 100% in 3s
+- [x] XtraMath Subtraction 100% in 3s
+- [x] XtraMath Multiplication 100% in 3s
+- [x] XtraMath Division 100% in 3s
 - [x] Arithmetic Course--Class 5: Memorizing Products
 - [x] Arithmetic Course--Class 6: Multiplying Multi-Digit Whole Numbers
 - [x] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
@@ -17,10 +17,8 @@
 - [x] Arithmetic Course--Class 11: Fractions and Fraction Equivalency
 - [x] Arithmetic Course--Classs 12: Adding and Subtracting Fractions
 - [x] Arithmetic Course--Class 13: Multiplying and Dividing Fractions
-- [] Arithmetic Course--Class 14: Adding and Subtracting Mixed Numbers
-- [] Arithmetic Course--Class 15: Multiplying and Dividing Mixed Numbers-
-- [] Arithmetic Course--Class 16: Review for Test II
-- [] Arithmetic Course--Class 17: Test II
+- [x] Arithmetic Course--Class 14: Adding and Subtracting Mixed Numbers
+- [x] Arithmetic Course--Class 15: Multiplying and Dividing Mixed Numbers-
 - [] Arithmetic Course--Class 18: Introduction to Decimals
 - [] Arithmetic Course--Class 19: Operations with Decimals Part I
 - [] Arithmetic Course--Class 20: Operations with Decimals (Part II)
