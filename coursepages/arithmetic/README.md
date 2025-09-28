@@ -6,10 +6,10 @@
 - [x] Arithmetic Course--Class 2: Introduction to Numbers
 - [x] Arithmetic Course--Class 3: Adding Whole Numbers
 - [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
-- [x] XtraMath Addition 100% in 3s
-- [x] XtraMath Subtraction 100% in 3s
-- [x] XtraMath Multiplication 100% in 3s
-- [x] XtraMath Division 100% in 3s
+- [x] XtraMath Addition 3s timer - 100%.
+- [x] XtraMath Subtraction 3s timer - 100%.
+- [x] XtraMath Multiplication 3s timer - 100%.
+- [x] XtraMath Division 3s timer - 100%.
 - [x] Arithmetic Course--Class 5: Memorizing Products
 - [x] Arithmetic Course--Class 6: Multiplying Multi-Digit Whole Numbers
 - [x] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
