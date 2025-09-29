@@ -19,10 +19,10 @@
 - [x] Arithmetic Course--Class 13: Multiplying and Dividing Fractions
 - [x] Arithmetic Course--Class 14: Adding and Subtracting Mixed Numbers
 - [x] Arithmetic Course--Class 15: Multiplying and Dividing Mixed Numbers-
-- [] Arithmetic Course--Class 18: Introduction to Decimals
-- [] Arithmetic Course--Class 19: Operations with Decimals Part I
-- [] Arithmetic Course--Class 20: Operations with Decimals (Part II)
-- [] Arithmetic Course--Class 21: Percents and Converting between All Three Forms of fractions
+- [x] Arithmetic Course--Class 18: Introduction to Decimals
+- [x] Arithmetic Course--Class 19: Operations with Decimals Part I
+- [x] Arithmetic Course--Class 20: Operations with Decimals (Part II)
+- [x] Arithmetic Course--Class 21: Percents and Converting between All Three Forms of fractions
 - [] Arithmetic Course--Class 22: Applications of Percents
 - [] Arithmetic Course--Class 23: The Order of Operations Agreement and Geometric Formulas
 - [] Arithmetic Course--Class 24: Further Applications of the Order of Operations Agreement
