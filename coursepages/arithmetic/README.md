@@ -6,10 +6,10 @@
 - [x] Arithmetic Course--Class 2: Introduction to Numbers
 - [x] Arithmetic Course--Class 3: Adding Whole Numbers
 - [x] Arithmetic Course--Class 4: Subtracting Whole Numbers
-- [x] XtraMath Addition 3s timer - 100%.
-- [x] XtraMath Subtraction 3s timer - 100%.
-- [x] XtraMath Multiplication 3s timer - 100%.
-- [x] XtraMath Division 3s timer - 100%.
+- [x] XtraMath Addition - 3s timer - 100%.
+- [x] XtraMath Subtraction - 3s timer - 100%.
+- [x] XtraMath Multiplication - 3s timer - 100%.
+- [x] XtraMath Division - 3s timer - 100%.
 - [x] Arithmetic Course--Class 5: Memorizing Products
 - [x] Arithmetic Course--Class 6: Multiplying Multi-Digit Whole Numbers
 - [x] Arithmetic Course--Class 7: Dividing Whole Numbers-Part I
@@ -23,8 +23,8 @@
 - [x] Arithmetic Course--Class 19: Operations with Decimals Part I
 - [x] Arithmetic Course--Class 20: Operations with Decimals (Part II)
 - [x] Arithmetic Course--Class 21: Percents and Converting between All Three Forms of fractions
-- [] Arithmetic Course--Class 22: Applications of Percents
-- [] Arithmetic Course--Class 23: The Order of Operations Agreement and Geometric Formulas
+- [x] Arithmetic Course--Class 22: Applications of Percents
+- [x] Arithmetic Course--Class 23: The Order of Operations Agreement and Geometric Formulas
 - [] Arithmetic Course--Class 24: Further Applications of the Order of Operations Agreement
 - [] Arithmetic Course--Class 25: Ratios and Rates
 - [] Arithmetic Course--Class 26: Proportions
