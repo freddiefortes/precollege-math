@@ -25,10 +25,10 @@
 - [x] Arithmetic Course--Class 21: Percents and Converting between All Three Forms of fractions
 - [x] Arithmetic Course--Class 22: Applications of Percents
 - [x] Arithmetic Course--Class 23: The Order of Operations Agreement and Geometric Formulas
-- [] Arithmetic Course--Class 24: Further Applications of the Order of Operations Agreement
-- [] Arithmetic Course--Class 25: Ratios and Rates
-- [] Arithmetic Course--Class 26: Proportions
-- [] Arithmetic Course--Class 27: Rounding
+- [x] Arithmetic Course--Class 24: Further Applications of the Order of Operations Agreement
+- [x] Arithmetic Course--Class 25: Ratios and Rates
+- [x] Arithmetic Course--Class 26: Proportions
+- [x] Arithmetic Course--Class 27: Rounding
 - [] Arithmetic Course--Class 28: Basic Statistics and Graphs
 - [] Arithmetic Course--Class 29: Review for Test III
 - [] Arithmetic Course--Class 30: Test III
