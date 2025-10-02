@@ -29,18 +29,11 @@
 - [x] Arithmetic Course--Class 25: Ratios and Rates
 - [x] Arithmetic Course--Class 26: Proportions
 - [x] Arithmetic Course--Class 27: Rounding
-- [] Arithmetic Course--Class 28: Basic Statistics and Graphs
-- [] Arithmetic Course--Class 29: Review for Test III
-- [] Arithmetic Course--Class 30: Test III
-- [] Arithmetic Course--Class 31: Review for Test IV
-- [] Arithmetic Course--Class 32: Test IV
-- [] Arithmetic Course--Class 33: A Few More Things
-- [] Arithmetic Course--Class 34: A Few More Things (Part II)
-- [] Arithmetic Course--Class 35: Multistep Word Problems
-- [] Arithmetic Course--Class 36: Competitive Tests
-- [] Arithmetic Course--Class 37: Review for the Final Exam
-- [] Arithmetic Course--Class 38: The Final Exam
-- [] Arithmetic Course--Class 39: Calculating Your Grade for the Course
+- [x] Arithmetic Course--Class 28: Basic Statistics and Graphs
+- [x] Arithmetic Course--Class 33: A Few More Things
+- [x] Arithmetic Course--Class 34: A Few More Things (Part II)
+- [x] Arithmetic Course--Class 35: Multistep Word Problems
+- [] Arithmetic Course--Class 38: The Final Exam - Accuracy: x%
 
 ---
 
