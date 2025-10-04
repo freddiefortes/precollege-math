@@ -65,7 +65,7 @@ To determine where you should start, we recommend scanning through the Final Tes
 
 Courses | Duration | Effort | Prerequisites | Assessments
 :-- | :--: | :--: | :--: | :--:
-[Arithmetic](/coursepages/arithmetic/README.md) | 20 Weeks | 8 hours/week | None | [Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
+✅[Arithmetic](/coursepages/arithmetic/README.md) | 20 Weeks | 8 hours/week | None | ✅[Final Test](https://www.youtube.com/watch?v=Af-MqCJGZww&list=PLm2VEQtiYjhpTTgxTVCXVcpYWDUqiewiQ&index=39&pp=iAQB0gcJCTgDd0p55Nqk)
 [Pre-Algebra](/coursepages/pre-algebra/README.md) | 14 Weeks | 6 hours/week | Arithmetic | [Final Test](https://www.youtube.com/watch?v=tz0VX_QfFxI&list=PLm2VEQtiYjhoZuRqvrC_dxSrwr0uexm4l&index=27&pp=iAQB)
 [Algebra 1](/coursepages/algebra-1/README.md) | 19 Weeks | 8 hours/week | Pre-Algebra | [Final Test Part 1](https://www.youtube.com/watch?v=-RA5vtfH-qY&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=35&t=369s&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=lx0sDd0efSo&list=PLm2VEQtiYjhpXDka_1Q6m0x1rL5GRPMX8&index=37&pp=iAQB)
 [Geometry](/coursepages/geometry/README.md) | 25 Weeks | 8 hours/week | Algebra 1 | [Final Test Part 1](https://www.youtube.com/watch?v=84e6AVgYYNk&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=47&t=2s&pp=iAQB), [Part 2](https://www.youtube.com/watch?v=3Aaahyp1Lh8&list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw&index=49&pp=iAQB0gcJCTgDd0p55Nqk)
