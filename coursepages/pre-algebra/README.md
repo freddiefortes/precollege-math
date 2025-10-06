@@ -1,5 +1,35 @@
 # Pre-Algebra Course
 
+## progress
+
+- [x] Pre-Algebra Course--Class 2: Negative Numbers-
+- [x] Pre-Algebra Course--Class 3: Negative Fractions--
+- [x] Pre-Algebra Course--Class 4: Algebraic Expressions.
+- [x] Pre-Algebra Course--Class 5: Algebraic Fractions-
+- [x] Pre-Algebra Course--Class 8: One-Step Equations
+- [x] Pre-Algebra Course--Class 9: Two-Step Equations
+- [x] Pre-Algebra Course--Class 10: Three-Step Equations
+- [] Pre-Algebra Course--Class 11: Equations Requiring Four or More Steps
+- [] Pre-Algebra Course--Class 12: Review for Test 2
+- [] Pre-Algebra Course--Class 13: Test 2
+- [] Pre-Algebra Course--Class 14: Equations with Variables on Both Sides
+- [] Pre-Algebra Course--Class 15: Evaluating Algebraic Expressions (Part I)
+- [] Pre-Algebra Course--Class 16: Evaluating Algebraic Expressions (Part II)
+- [] Pre-Algebra Course--Class 17: Equations with Parentheses
+- [] Pre-Algebra Course--Class 18: Review for Test 3
+- [] Pre-Algebra Course--Class 19: Test 3
+- [] Pre-Algebra Course--Class 20: Inequalities and Equations with Decimals
+- [] Pre-Algebra Course--Class 21: Applications of Algebra (Part I)-
+- [] Pre-Algebra Course--Class 22: Applications of Algebra (Part II)
+- [] Pre-Algebra Course--Class 23: Graphing Linear Equations and Inequalities
+- [] Pre-Algebra Course--Class 24: Review for Test 4
+- [] Pre-Algebra Course--Class 25: Test 4.
+- [] Pre-Algebra Course--Class 26: Review for the Final Test
+- [] Pre-Algebra Course--Class 27: The Final Test
+- [] Pre-Algebra Course--Class 28: Calculating Your Grade for the Course
+
+---
+
 **Topics covered**:
 `negative numbers`
 `negative fractions`
