@@ -9,16 +9,12 @@
 - [x] Pre-Algebra Course--Class 8: One-Step Equations
 - [x] Pre-Algebra Course--Class 9: Two-Step Equations
 - [x] Pre-Algebra Course--Class 10: Three-Step Equations
-- [] Pre-Algebra Course--Class 11: Equations Requiring Four or More Steps
-- [] Pre-Algebra Course--Class 12: Review for Test 2
-- [] Pre-Algebra Course--Class 13: Test 2
-- [] Pre-Algebra Course--Class 14: Equations with Variables on Both Sides
-- [] Pre-Algebra Course--Class 15: Evaluating Algebraic Expressions (Part I)
-- [] Pre-Algebra Course--Class 16: Evaluating Algebraic Expressions (Part II)
-- [] Pre-Algebra Course--Class 17: Equations with Parentheses
-- [] Pre-Algebra Course--Class 18: Review for Test 3
-- [] Pre-Algebra Course--Class 19: Test 3
-- [] Pre-Algebra Course--Class 20: Inequalities and Equations with Decimals
+- [x] Pre-Algebra Course--Class 11: Equations Requiring Four or More Steps
+- [x] Pre-Algebra Course--Class 14: Equations with Variables on Both Sides
+- [x] Pre-Algebra Course--Class 15: Evaluating Algebraic Expressions (Part I)
+- [x] Pre-Algebra Course--Class 16: Evaluating Algebraic Expressions (Part II)
+- [x] Pre-Algebra Course--Class 17: Equations with Parentheses
+- [x] Pre-Algebra Course--Class 20: Inequalities and Equations with Decimals
 - [] Pre-Algebra Course--Class 21: Applications of Algebra (Part I)-
 - [] Pre-Algebra Course--Class 22: Applications of Algebra (Part II)
 - [] Pre-Algebra Course--Class 23: Graphing Linear Equations and Inequalities
