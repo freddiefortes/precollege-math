@@ -18,7 +18,7 @@
 - [x] Pre-Algebra Course--Class 21: Applications of Algebra (Part I)-
 - [x] Pre-Algebra Course--Class 22: Applications of Algebra (Part II)
 - [x] Pre-Algebra Course--Class 23: Graphing Linear Equations and Inequalities
-- [] Pre-Algebra Course--Class 26: Review for the Final Test
+- [x] Pre-Algebra Course--Class 26: Review for the Final Test
 - [] Pre-Algebra Course--Class 27: The Final Test
 
 ---
