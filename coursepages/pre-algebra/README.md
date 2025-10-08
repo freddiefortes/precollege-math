@@ -15,14 +15,11 @@
 - [x] Pre-Algebra Course--Class 16: Evaluating Algebraic Expressions (Part II)
 - [x] Pre-Algebra Course--Class 17: Equations with Parentheses
 - [x] Pre-Algebra Course--Class 20: Inequalities and Equations with Decimals
-- [] Pre-Algebra Course--Class 21: Applications of Algebra (Part I)-
-- [] Pre-Algebra Course--Class 22: Applications of Algebra (Part II)
-- [] Pre-Algebra Course--Class 23: Graphing Linear Equations and Inequalities
-- [] Pre-Algebra Course--Class 24: Review for Test 4
-- [] Pre-Algebra Course--Class 25: Test 4.
+- [x] Pre-Algebra Course--Class 21: Applications of Algebra (Part I)-
+- [x] Pre-Algebra Course--Class 22: Applications of Algebra (Part II)
+- [x] Pre-Algebra Course--Class 23: Graphing Linear Equations and Inequalities
 - [] Pre-Algebra Course--Class 26: Review for the Final Test
 - [] Pre-Algebra Course--Class 27: The Final Test
-- [] Pre-Algebra Course--Class 28: Calculating Your Grade for the Course
 
 ---
 
