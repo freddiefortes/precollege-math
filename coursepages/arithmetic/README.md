@@ -1,7 +1,5 @@
 # Arithmetic Course
 
-## progress
-
 - [x] Arithmetic Course--Class 1: An Introduction, Course Content, and Staying Organized
 - [x] Arithmetic Course--Class 2: Introduction to Numbers
 - [x] Arithmetic Course--Class 3: Adding Whole Numbers

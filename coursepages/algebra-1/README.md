@@ -1,5 +1,45 @@
 # Algebra 1 Course
 
+- [x] Beginning Algebra Course--Class 2: Polynomials.
+- [x] Beginning Algebra Course--Class 3: Multiplying Binomials.
+- [] Beginning Algebra Course--Class 4: Factoring Algebraic Expressions (Part I).
+- [] Beginning Algebra Course--Class 5: Factoring Algebraic Expressions (Part II).
+- [] Beginning Algebra Course--Class 6: Factoring Algebraic Expressions (Part III).
+- [] Beginning Algebra Course--Class 7: Factoring Algebraic Expressions (Part IV).
+- [] Beginning Algebra Course--Class 8: Review for Test I.
+- [] Beginning Algebra Course--Class 9: Test I
+- [] Beginning Algebra Course--Class 10: Simplifying Algebraic Fractions-
+- [] Beginning Algebra Course--Class 11: Multiplying and Dividing Algebraic Fractions
+- [] Beginning Algebra Course--Class12: Adding and Subtracting Algebraic Fractions.
+- [] Beginning Algebra Course--Class 13: Complex Fractions.
+- [] Answers for Problems that Were Skipped in the Complex Fractions Class (not a required video)
+- [] Beginning Algebra Course--Class 14: Simplifying Expressions with Square Roots (Part I ).
+- [] Beginning Algebra Course--Class 15: Simplifying Expressions with Square Roots (Part II).
+- [] Beginning Algebra Course--Class 16: Review for Test II
+- [] Beginning Algebra Course--Class 17: Test II
+- [] Beginning Algebra Course--Class 18: Solving Quadratic Equations by Factoring.
+- [] Beginning Algebra Course--Class 19: Solving Equations with Squares.
+- [] Beginning Algebra Course--Class 20: Solving Equations with Fractions.
+- [] Beginning Algebra Course--Class 21: Solving More Equations by Factoring
+- [] Beginning Algebra Course--Class 22: Solving Equations with Square Roots.
+- [] Beginning Algebra Course--Class 23: Review for Test III
+- [] Beginning Algebra Course--Class 24: Test III
+- [] Beginning Algebra Course--Class 25: Solving Systems of Equations.
+- [] Beginning Algebra Course--Class 26: The Three Forms of Linear Equations and Finding Slope
+- [] Beginning Algebra Course--Class 27: Graphing Linear Equations
+- [] Beginning Algebra Course--Class 28: Additional Problems on Linear Equations and their Graphs
+- [] Beginning Algebra Course--Class 29: Applications of Algebra (Part I).
+- [] Beginning Algebra Course--Class 30: Applications of Algebra (Part II)
+- [] Beginning Algebra Course--Class 31: Review for Test IV
+- [] Beginning Algebra Course--Class 32: Test IV
+- [] Beginning Algebra Course--Class 33: Review for the Final Test (Part I)
+- [] Beginning Algebra Course--Class 34: The Final Test (Part I)
+- [] Beginning Algebra Course--Class 35: Review for the Final Test (Part II)
+- [] Beginning Algebra Course--Class 36: The Final Test (Part II)
+- [] Beginning Algebra Course--Class 37: Calculating Your Final Grade for the Course
+
+---
+
 **Topics covered**:
 `polynomials`
 `FOIL`

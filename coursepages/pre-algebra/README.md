@@ -1,7 +1,5 @@
 # Pre-Algebra Course
 
-## progress
-
 - [x] Pre-Algebra Course--Class 2: Negative Numbers-
 - [x] Pre-Algebra Course--Class 3: Negative Fractions--
 - [x] Pre-Algebra Course--Class 4: Algebraic Expressions.
