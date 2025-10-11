@@ -3,8 +3,8 @@
 - [x] Beginning Algebra Course--Class 2: Polynomials.
 - [x] Beginning Algebra Course--Class 3: Multiplying Binomials.
 - [x] Beginning Algebra Course--Class 4: Factoring Algebraic Expressions (Part I).
-- [] Beginning Algebra Course--Class 5: Factoring Algebraic Expressions (Part II).
-- [] Beginning Algebra Course--Class 6: Factoring Algebraic Expressions (Part III).
+- [x] Beginning Algebra Course--Class 5: Factoring Algebraic Expressions (Part II).
+- [x] Beginning Algebra Course--Class 6: Factoring Algebraic Expressions (Part III).
 - [] Beginning Algebra Course--Class 7: Factoring Algebraic Expressions (Part IV).
 - [] Beginning Algebra Course--Class 8: Review for Test I.
 - [] Beginning Algebra Course--Class 9: Test I
