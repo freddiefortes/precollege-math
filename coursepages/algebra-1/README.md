@@ -8,9 +8,8 @@
 - [x] Beginning Algebra Course--Class 7: Factoring Algebraic Expressions (Part IV).
 - [x] Beginning Algebra Course--Class 10: Simplifying Algebraic Fractions-
 - [x] Beginning Algebra Course--Class 11: Multiplying and Dividing Algebraic Fractions
-- [] Beginning Algebra Course--Class12: Adding and Subtracting Algebraic Fractions.
-- [] Beginning Algebra Course--Class 13: Complex Fractions.
-- [] Answers for Problems that Were Skipped in the Complex Fractions Class (not a required video)
+- [x] Beginning Algebra Course--Class12: Adding and Subtracting Algebraic Fractions.
+- [x] Beginning Algebra Course--Class 13: Complex Fractions.
 - [] Beginning Algebra Course--Class 14: Simplifying Expressions with Square Roots (Part I ).
 - [] Beginning Algebra Course--Class 15: Simplifying Expressions with Square Roots (Part II).
 - [] Beginning Algebra Course--Class 16: Review for Test II
