@@ -12,7 +12,7 @@
 - [x] Beginning Algebra Course--Class 13: Complex Fractions.
 - [x] Beginning Algebra Course--Class 14: Simplifying Expressions with Square Roots (Part I ).
 - [x] Beginning Algebra Course--Class 15: Simplifying Expressions with Square Roots (Part II).
-- [] Beginning Algebra Course--Class 18: Solving Quadratic Equations by Factoring.
+- [x] Beginning Algebra Course--Class 18: Solving Quadratic Equations by Factoring.
 - [] Beginning Algebra Course--Class 19: Solving Equations with Squares.
 - [] Beginning Algebra Course--Class 20: Solving Equations with Fractions.
 - [] Beginning Algebra Course--Class 21: Solving More Equations by Factoring
