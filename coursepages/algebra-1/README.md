@@ -10,10 +10,8 @@
 - [x] Beginning Algebra Course--Class 11: Multiplying and Dividing Algebraic Fractions
 - [x] Beginning Algebra Course--Class12: Adding and Subtracting Algebraic Fractions.
 - [x] Beginning Algebra Course--Class 13: Complex Fractions.
-- [] Beginning Algebra Course--Class 14: Simplifying Expressions with Square Roots (Part I ).
-- [] Beginning Algebra Course--Class 15: Simplifying Expressions with Square Roots (Part II).
-- [] Beginning Algebra Course--Class 16: Review for Test II
-- [] Beginning Algebra Course--Class 17: Test II
+- [x] Beginning Algebra Course--Class 14: Simplifying Expressions with Square Roots (Part I ).
+- [x] Beginning Algebra Course--Class 15: Simplifying Expressions with Square Roots (Part II).
 - [] Beginning Algebra Course--Class 18: Solving Quadratic Equations by Factoring.
 - [] Beginning Algebra Course--Class 19: Solving Equations with Squares.
 - [] Beginning Algebra Course--Class 20: Solving Equations with Fractions.
