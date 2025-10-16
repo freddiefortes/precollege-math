@@ -13,12 +13,10 @@
 - [x] Beginning Algebra Course--Class 14: Simplifying Expressions with Square Roots (Part I ).
 - [x] Beginning Algebra Course--Class 15: Simplifying Expressions with Square Roots (Part II).
 - [x] Beginning Algebra Course--Class 18: Solving Quadratic Equations by Factoring.
-- [] Beginning Algebra Course--Class 19: Solving Equations with Squares.
-- [] Beginning Algebra Course--Class 20: Solving Equations with Fractions.
-- [] Beginning Algebra Course--Class 21: Solving More Equations by Factoring
-- [] Beginning Algebra Course--Class 22: Solving Equations with Square Roots.
-- [] Beginning Algebra Course--Class 23: Review for Test III
-- [] Beginning Algebra Course--Class 24: Test III
+- [x] Beginning Algebra Course--Class 19: Solving Equations with Squares.
+- [x] Beginning Algebra Course--Class 20: Solving Equations with Fractions.
+- [x] Beginning Algebra Course--Class 21: Solving More Equations by Factoring
+- [x] Beginning Algebra Course--Class 22: Solving Equations with Square Roots.
 - [] Beginning Algebra Course--Class 25: Solving Systems of Equations.
 - [] Beginning Algebra Course--Class 26: The Three Forms of Linear Equations and Finding Slope
 - [] Beginning Algebra Course--Class 27: Graphing Linear Equations
