@@ -17,7 +17,7 @@
 - [x] Beginning Algebra Course--Class 20: Solving Equations with Fractions.
 - [x] Beginning Algebra Course--Class 21: Solving More Equations by Factoring
 - [x] Beginning Algebra Course--Class 22: Solving Equations with Square Roots.
-- [] Beginning Algebra Course--Class 25: Solving Systems of Equations.
+- [x] Beginning Algebra Course--Class 25: Solving Systems of Equations.
 - [] Beginning Algebra Course--Class 26: The Three Forms of Linear Equations and Finding Slope
 - [] Beginning Algebra Course--Class 27: Graphing Linear Equations
 - [] Beginning Algebra Course--Class 28: Additional Problems on Linear Equations and their Graphs
