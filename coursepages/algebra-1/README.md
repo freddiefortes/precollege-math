@@ -20,8 +20,8 @@
 - [x] Beginning Algebra Course--Class 25: Solving Systems of Equations.
 - [x] Beginning Algebra Course--Class 26: The Three Forms of Linear Equations and Finding Slope
 - [x] Beginning Algebra Course--Class 27: Graphing Linear Equations
-- [] Beginning Algebra Course--Class 28: Additional Problems on Linear Equations and their Graphs
-- [] Beginning Algebra Course--Class 29: Applications of Algebra (Part I).
+- [x] Beginning Algebra Course--Class 28: Additional Problems on Linear Equations and their Graphs
+- [x] Beginning Algebra Course--Class 29: Applications of Algebra (Part I).
 - [] Beginning Algebra Course--Class 30: Applications of Algebra (Part II)
 - [] Beginning Algebra Course--Class 31: Review for Test IV
 - [] Beginning Algebra Course--Class 32: Test IV
