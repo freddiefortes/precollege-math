@@ -22,14 +22,11 @@
 - [x] Beginning Algebra Course--Class 27: Graphing Linear Equations
 - [x] Beginning Algebra Course--Class 28: Additional Problems on Linear Equations and their Graphs
 - [x] Beginning Algebra Course--Class 29: Applications of Algebra (Part I).
-- [] Beginning Algebra Course--Class 30: Applications of Algebra (Part II)
-- [] Beginning Algebra Course--Class 31: Review for Test IV
-- [] Beginning Algebra Course--Class 32: Test IV
+- [x] Beginning Algebra Course--Class 30: Applications of Algebra (Part II)
 - [] Beginning Algebra Course--Class 33: Review for the Final Test (Part I)
 - [] Beginning Algebra Course--Class 34: The Final Test (Part I)
 - [] Beginning Algebra Course--Class 35: Review for the Final Test (Part II)
 - [] Beginning Algebra Course--Class 36: The Final Test (Part II)
-- [] Beginning Algebra Course--Class 37: Calculating Your Final Grade for the Course
 
 ---
 
