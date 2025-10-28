@@ -25,8 +25,8 @@
 - [x] Beginning Algebra Course--Class 30: Applications of Algebra (Part II)
 - [x] Beginning Algebra Course--Class 33: Review for the Final Test (Part I)
 - [x] Beginning Algebra Course--Class 34: The Final Test (Part I)
-- [] Beginning Algebra Course--Class 35: Review for the Final Test (Part II)
-- [] Beginning Algebra Course--Class 36: The Final Test (Part II)
+- [x] Beginning Algebra Course--Class 35: Review for the Final Test (Part II)
+- [x] Beginning Algebra Course--Class 36: The Final Test (Part II)
 
 ---
 
