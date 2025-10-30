@@ -3,8 +3,8 @@
 
 - [x] Class 1: An Introduction, Staying Organized, and Course Content
 - [x] Class 2: Fundamental Geometry (Part I)
-- [] Class 3: Fundamental Geometry (Part II)
-- [] Class 4: Fundamental Geometry (Part III)
+- [x] Class 3: Fundamental Geometry (Part II)
+- [x] Class 4: Fundamental Geometry (Part III)
 - [] Class 5: Inductive and Deductive Reasoning
 - [] Class 6: Proofs and Properties of Equality and Congruence (Part I)
 - [] Class 7: Proofs and Properties of Equality and Congruence (Part II)
