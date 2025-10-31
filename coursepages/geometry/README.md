@@ -5,8 +5,8 @@
 - [x] Class 2: Fundamental Geometry (Part I)
 - [x] Class 3: Fundamental Geometry (Part II)
 - [x] Class 4: Fundamental Geometry (Part III)
-- [] Class 5: Inductive and Deductive Reasoning
-- [] Class 6: Proofs and Properties of Equality and Congruence (Part I)
+- [x] Class 5: Inductive and Deductive Reasoning
+- [x] Class 6: Proofs and Properties of Equality and Congruence (Part I)
 - [] Class 7: Proofs and Properties of Equality and Congruence (Part II)
 - [] Class 8: Proofs and Properties of Equality and Congruence (Part III)
 - [] Class 9: Review for Test 1
