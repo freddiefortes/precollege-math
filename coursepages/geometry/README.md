@@ -8,9 +8,7 @@
 - [x] Class 5: Inductive and Deductive Reasoning
 - [x] Class 6: Proofs and Properties of Equality and Congruence (Part I)
 - [x] Class 7: Proofs and Properties of Equality and Congruence (Part II)
-- [] Class 8: Proofs and Properties of Equality and Congruence (Part III)
-- [] Class 9: Review for Test 1
-- [] Class 10: Test 1
+- [x] Class 8: Proofs and Properties of Equality and Congruence (Part III)
 - [] Class 11: Angles Formed by Transversals
 - [] Class 12: Triangles (The Pythagorean Theorem and the Triangle Sum Theorem).
 - [] Class 13: Triangle Congruence Postulates and Theorems.
