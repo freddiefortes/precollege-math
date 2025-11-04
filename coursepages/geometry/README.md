@@ -9,8 +9,8 @@
 - [x] Class 6: Proofs and Properties of Equality and Congruence (Part I)
 - [x] Class 7: Proofs and Properties of Equality and Congruence (Part II)
 - [x] Class 8: Proofs and Properties of Equality and Congruence (Part III)
-- [] Class 11: Angles Formed by Transversals
-- [] Class 12: Triangles (The Pythagorean Theorem and the Triangle Sum Theorem).
+- [x] Class 11: Angles Formed by Transversals
+- [X] Class 12: Triangles (The Pythagorean Theorem and the Triangle Sum Theorem).
 - [] Class 13: Triangle Congruence Postulates and Theorems.
 - [] Class 14: Applications of Triangle Congruence and More Triangle Theorems
 - [] Class 15: The Distance Formula and the Midpoint in Two Dimensions
