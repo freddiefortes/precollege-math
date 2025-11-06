@@ -12,7 +12,7 @@
 - [x] Class 11: Angles Formed by Transversals
 - [X] Class 12: Triangles (The Pythagorean Theorem and the Triangle Sum Theorem).
 - [x] Class 13: Triangle Congruence Postulates and Theorems.
-- [] Class 14: Applications of Triangle Congruence and More Triangle Theorems
+- [x] Class 14: Applications of Triangle Congruence and More Triangle Theorems
 - [] Class 15: The Distance Formula and the Midpoint in Two Dimensions
 - [] Class 16: Coordinate Proofs and Bisector Theorems
 - [] Class 17: Review for Test 2
@@ -51,6 +51,7 @@
 - [] Class 50: Calculating Your Final Grade
 
 ---
+
 **Topics covered**:
 `inductive reasoning`
 `flowchart proofs`
