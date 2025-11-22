@@ -23,7 +23,7 @@
 - [x] Class 24: Proportionality Theorems, Transformations, and More on Similar Polygons
 - [x] Class 27: Right Triangles (Part I)
 - [x] Class 28: Right Triangles (Part II)
-- [] Class 29: Special Quadrilaterals (Part I) and Angles of Polygons
+- [x] Class 29: Special Quadrilaterals (Part I) and Angles of Polygons
 - [] Class 30: Special Quadrilaterals (Part II)
 - [] Class 31: Special Quadrilaterals (Part III)
 - [] Class 32: Review for Test 4
