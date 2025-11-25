@@ -24,10 +24,8 @@
 - [x] Class 27: Right Triangles (Part I)
 - [x] Class 28: Right Triangles (Part II)
 - [x] Class 29: Special Quadrilaterals (Part I) and Angles of Polygons
-- [] Class 30: Special Quadrilaterals (Part II)
-- [] Class 31: Special Quadrilaterals (Part III)
-- [] Class 32: Review for Test 4
-- [] Class 33: Test 4
+- [x] Class 30: Special Quadrilaterals (Part II)
+- [x] Class 31: Special Quadrilaterals (Part III)
 - [] Class 34: Circles (Part I).
 - [] Class 35: Circles (Part II)
 - [] Class 36: Circles (Part III)
