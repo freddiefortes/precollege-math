@@ -27,7 +27,7 @@
 - [x] Class 30: Special Quadrilaterals (Part II)
 - [x] Class 31: Special Quadrilaterals (Part III)
 - [x] Class 34: Circles (Part I).
-- [] Class 35: Circles (Part II)
+- [x] Class 35: Circles (Part II)
 - [] Class 36: Circles (Part III)
 - [] Class 37: Review for Test 5
 - [] Class 38: Test 5
@@ -80,5 +80,5 @@ This course was created by [The College Prep School](https://www.youtube.com/@th
 - When the teacher says "try this one on your own", pause the video and work it out. You do not have to do every single problem, but make sure to pay attention, learn the method to solve it, and do the ones he tells you to complete.
 - Always complete the homework. If you get something wrong according to the answer key, try to see what you did wrong and redo the problem correctly.
 - When you get to a review day, attempt every problem yourself then complete the homework.
-- Take the tests seriously and don't cheat. Use them as a measure to see where your knowlege is at. Do not move on without feeling proficient at a topic.
+- Take the tests seriously and don't cheat. Use them as a measure to see where your knowledge is at. Do not move on without feeling proficient at a topic.
 - You may find a calculator useful for this course. [Desmos](https://www.desmos.com/calculator) is a good free graphing calculator.
