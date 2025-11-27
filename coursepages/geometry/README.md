@@ -29,20 +29,18 @@
 - [x] Class 34: Circles (Part I).
 - [x] Class 35: Circles (Part II)
 - [x] Class 36: Circles (Part III)
-- [] Class 37: Review for Test 5
-- [] Class 38: Test 5
-- [] Class 39: Area (Part I)
-- [] Class 40: Area (Part II)
-- [] Class 41: Area (Part III)
-- [] Class 42: Volume
-- [] Class 43: Paragraph Proofs and Flowchart Proofs
-- [] Class 44: Review for Test 6
-- [] Class 45: Test 6
-- [] Class 46: Review for Part I of the Final Test
-- [] Class 47: The Final Test (Part I)
-- [] Class 48: Review for Part II of the Final Test
-- [] Class 49: The Final Test (Part II)
-- [] Class 50: Calculating Your Final Grade
+- [ ] Class 39: Area (Part I)
+- [ ] Class 40: Area (Part II)
+- [ ] Class 41: Area (Part III)
+- [ ] Class 42: Volume
+- [ ] Class 43: Paragraph Proofs and Flowchart Proofs
+- [ ] Class 44: Review for Test 6
+- [ ] Class 45: Test 6
+- [ ] Class 46: Review for Part I of the Final Test
+- [ ] Class 47: The Final Test (Part I)
+- [ ] Class 48: Review for Part II of the Final Test
+- [ ] Class 49: The Final Test (Part II)
+- [ ] Class 50: Calculating Your Final Grade
 
 ---
 
