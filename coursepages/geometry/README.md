@@ -28,7 +28,7 @@
 - [x] Class 31: Special Quadrilaterals (Part III)
 - [x] Class 34: Circles (Part I).
 - [x] Class 35: Circles (Part II)
-- [] Class 36: Circles (Part III)
+- [x] Class 36: Circles (Part III)
 - [] Class 37: Review for Test 5
 - [] Class 38: Test 5
 - [] Class 39: Area (Part I)
