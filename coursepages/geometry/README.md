@@ -29,9 +29,9 @@
 - [x] Class 34: Circles (Part I).
 - [x] Class 35: Circles (Part II)
 - [x] Class 36: Circles (Part III)
-- [ ] Class 39: Area (Part I)
-- [ ] Class 40: Area (Part II)
-- [ ] Class 41: Area (Part III)
+- [x] Class 39: Area (Part I)
+- [x] Class 40: Area (Part II)
+- [x] Class 41: Area (Part III)
 - [ ] Class 42: Volume
 - [ ] Class 43: Paragraph Proofs and Flowchart Proofs
 - [ ] Class 44: Review for Test 6
