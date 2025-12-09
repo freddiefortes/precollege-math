@@ -34,9 +34,7 @@
 - [x] Class 41: Area (Part III)
 - [x] Class 42: Volume
 - [x] Class 43: Paragraph Proofs and Flowchart Proofs
-- [ ] Class 44: Review for Test 6
-- [ ] Class 45: Test 6
-- [ ] Class 46: Review for Part I of the Final Test
+- [x] Class 46: Review for Part I of the Final Test
 - [ ] Class 47: The Final Test (Part I)
 - [ ] Class 48: Review for Part II of the Final Test
 - [ ] Class 49: The Final Test (Part II)
