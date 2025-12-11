@@ -36,9 +36,8 @@
 - [x] Class 43: Paragraph Proofs and Flowchart Proofs
 - [x] Class 46: Review for Part I of the Final Test
 - [x] Class 47: The Final Test (Part I)
-- [ ] Class 48: Review for Part II of the Final Test
-- [ ] Class 49: The Final Test (Part II)
-- [ ] Class 50: Calculating Your Final Grade
+- [x] Class 48: Review for Part II of the Final Test
+- [x] Class 49: The Final Test (Part II)
 
 ---
 
