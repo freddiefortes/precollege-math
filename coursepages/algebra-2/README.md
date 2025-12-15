@@ -5,7 +5,7 @@
 - [x] Intermediate Algebra Course--Class 3: Solving Systems of Three Equations
 - [x] Intermediate Algebra Course--Class 4: Absolute Value Equations and Inequalities
 - [x] Intermediate Algebra Course--Class 5: Roots (Part I)
-- [ ] Intermediate Algebra Course--Class 6: Roots (Part II)
+- [x] Intermediate Algebra Course--Class 6: Roots (Part II)
 - [ ] Intermediate Algebra Course--Class 7: Roots (Part III)
 - [ ] Intermediate Algebra Course--Class 8: Roots (Part IV)
 - [ ] Intermediate Algebra Course--Class 9: Solving Quadratic Equations by Completing the Square (Part I)
