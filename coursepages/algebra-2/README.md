@@ -4,7 +4,7 @@
 - [x] Intermediate Algebra Course--Class 2: Review and Expanding on Various Topics
 - [x] Intermediate Algebra Course--Class 3: Solving Systems of Three Equations
 - [x] Intermediate Algebra Course--Class 4: Absolute Value Equations and Inequalities
-- [ ] Intermediate Algebra Course--Class 5: Roots (Part I)
+- [x] Intermediate Algebra Course--Class 5: Roots (Part I)
 - [ ] Intermediate Algebra Course--Class 6: Roots (Part II)
 - [ ] Intermediate Algebra Course--Class 7: Roots (Part III)
 - [ ] Intermediate Algebra Course--Class 8: Roots (Part IV)
