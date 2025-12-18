@@ -10,7 +10,7 @@
 - [x] Intermediate Algebra Course--Class 8: Roots (Part IV)
 - [x] Intermediate Algebra Course--Class 9: Solving Quadratic Equations by Completing the Square (Part I)
 - [x] Intermediate Algebra Course--Class 10: Solving Quadratic Equations by Completing the Square(Part II)
-- [ ] Intermediate Algebra Course--Class 11: Solving Quadratic Equations with the Quadratic Formula
+- [x] Intermediate Algebra Course--Class 11: Solving Quadratic Equations with the Quadratic Formula
 - [ ] Intermediate Algebra Course--Class 12: Review for Test I
 - [ ] Intermediate Algebra Course--Class 13: Test I
 - [ ] Intermediate Algebra Course--Class 14: Graphing Quadratic Expressions
