@@ -12,7 +12,7 @@
 - [x] Intermediate Algebra Course--Class 10: Solving Quadratic Equations by Completing the Square(Part II)
 - [x] Intermediate Algebra Course--Class 11: Solving Quadratic Equations with the Quadratic Formula
 - [x] Intermediate Algebra Course--Class 12: Review for Test I
-- [ ] Intermediate Algebra Course--Class 13: Test I
+- [x] Intermediate Algebra Course--Class 13: Test I
 - [ ] Intermediate Algebra Course--Class 14: Graphing Quadratic Expressions
 - [ ] Intermediate Algebra Course--Class 15: Graphing Quadratic Expressions (Part II)
 - [ ] Intermediate Algebra Course--Class 16: Graphing Quadratic Expressions (Part III)
@@ -56,6 +56,10 @@
 - [ ] Intermediate Algebra Course--Class 54: Review for the Final Test
 - [ ] Intermediate Algebra Course--Class 55: The Final Test
 - [ ] Intermediate Algebra Course--Class 56: Calculating Your Course Grade
+
+GRADES:
+
+- Test I: A (90/100)
 
 ---
 
