@@ -13,7 +13,7 @@
 - [x] Intermediate Algebra Course--Class 11: Solving Quadratic Equations with the Quadratic Formula
 - [x] Intermediate Algebra Course--Class 12: Review for Test I
 - [x] Intermediate Algebra Course--Class 13: Test I
-- [ ] Intermediate Algebra Course--Class 14: Graphing Quadratic Expressions
+- [x] Intermediate Algebra Course--Class 14: Graphing Quadratic Expressions
 - [ ] Intermediate Algebra Course--Class 15: Graphing Quadratic Expressions (Part II)
 - [ ] Intermediate Algebra Course--Class 16: Graphing Quadratic Expressions (Part III)
 - [ ] Intermediate Algebra Course--Class 17: Graphing Quadratic Expressions (Part IV)
