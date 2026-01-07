@@ -15,7 +15,7 @@
 - [x] Intermediate Algebra Course--Class 13: Test I
 - [x] Intermediate Algebra Course--Class 14: Graphing Quadratic Expressions
 - [x] Intermediate Algebra Course--Class 15: Graphing Quadratic Expressions (Part II)
-- [ ] Intermediate Algebra Course--Class 16: Graphing Quadratic Expressions (Part III)
+- [x] Intermediate Algebra Course--Class 16: Graphing Quadratic Expressions (Part III)
 - [ ] Intermediate Algebra Course--Class 17: Graphing Quadratic Expressions (Part IV)
 - [ ] Intermediate Algebra Course--Class 18: Graphing Quadratic Expressions (Part V)
 - [ ] Intermediate Algebra Course--Class 19: Graphing Quadratic Expressions (Part VI)
