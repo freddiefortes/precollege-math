@@ -19,7 +19,7 @@
 - [x] Intermediate Algebra Course--Class 17: Graphing Quadratic Expressions (Part IV)
 - [x] Intermediate Algebra Course--Class 18: Graphing Quadratic Expressions (Part V)
 - [x] Intermediate Algebra Course--Class 19: Graphing Quadratic Expressions (Part VI)
-- [ ] Intermediate Algebra Course--Class 20: Graphing Quadratic Expressions (Part VII)
+- [x] Intermediate Algebra Course--Class 20: Graphing Quadratic Expressions (Part VII)
 - [ ] Intermediate Algebra Course--Class 21: Finding Quadratic Equations and Counting X-Intercepts
 - [ ] Intermediate Algebra Course--Class 22: Converting between the Three Forms of a Quadratic Expression
 - [ ] Intermediate Algebra Course--Class 23: Review for Test II
