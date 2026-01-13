@@ -23,7 +23,7 @@
 - [x] Intermediate Algebra Course--Class 21: Finding Quadratic Equations and Counting X-Intercepts
 - [x] Intermediate Algebra Course--Class 22: Converting between the Three Forms of a Quadratic Expression
 - [x] Intermediate Algebra Course--Class 23: Review for Test II
-- [ ] Intermediate Algebra Course--Class 24: Test II
+- [x] Intermediate Algebra Course--Class 24: Test II
 - [ ] Intermediate Algebra Course--Class 25: The Exponent Rules (Part I)
 - [ ] Intermediate Algebra Course--Class 26: The Exponent Rules (Part II)
 - [ ] Intermediate Algebra Course--Class 27: The Exponent Rules (Part III)
@@ -60,6 +60,7 @@
 GRADES:
 
 - Test I: A (90/100)
+- Test II: A (100/100)
 
 ---
 
