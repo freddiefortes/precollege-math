@@ -27,7 +27,7 @@
 - [x] Intermediate Algebra Course--Class 25: The Exponent Rules (Part I)
 - [x] Intermediate Algebra Course--Class 26: The Exponent Rules (Part II)
 - [x] Intermediate Algebra Course--Class 27: The Exponent Rules (Part III)
-- [ ] Intermediate Algebra Course---Class 28: The Exponent Rules (Part IV)
+- [x] Intermediate Algebra Course---Class 28: The Exponent Rules (Part IV)
 - [ ] Intermediate Algebra Course--Class 29: Exponential Equations and an Introduction to Logarithms
 - [ ] Intermediate Algebra Course--Class 30: Exponential Equations and an Intro to Logarithms (Part II)
 - [ ] Intermediate Algebra Course--Class 31: Exponential Equations and Logarithmic Equations
