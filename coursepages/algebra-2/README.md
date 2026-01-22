@@ -30,7 +30,7 @@
 - [x] Intermediate Algebra Course---Class 28: The Exponent Rules (Part IV)
 - [x] Intermediate Algebra Course--Class 29: Exponential Equations and an Introduction to Logarithms
 - [x] Intermediate Algebra Course--Class 30: Exponential Equations and an Intro to Logarithms (Part II)
-- [ ] Intermediate Algebra Course--Class 31: Exponential Equations and Logarithmic Equations
+- [x] Intermediate Algebra Course--Class 31: Exponential Equations and Logarithmic Equations
 - [ ] Intermediate Algebra Course--Class 32: More Logarithmic Equations and Properties of Logarithms
 - [ ] Intermediate Algebra Course--Class 33: More Complicated Logarithmic Equations
 - [ ] Intermediate Algebra Course--Class 34: More Complicated Logarithmic Equations (Part II)
