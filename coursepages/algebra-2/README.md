@@ -35,7 +35,7 @@
 - [x] Intermediate Algebra Course--Class 33: More Complicated Logarithmic Equations
 - [x] Intermediate Algebra Course--Class 34: More Complicated Logarithmic Equations (Part II)
 - [x] Intermediate Algebra Course--Class 35: More Complicated Logarithmic Equations (Part III)
-- [ ] Intermediate Algebra Course--Class 36: Review for Test III
+- [x] Intermediate Algebra Course--Class 36: Review for Test III
 - [ ] Intermediate Algebra Course--Class 37: Test III
 - [ ] Intermediate Algebra Course--Class 38: Transformations and the Library of Relations
 - [ ] Intermediate Algebra Course--Class 39: Transformations and the Library of Relations (Part II)
