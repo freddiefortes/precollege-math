@@ -39,7 +39,7 @@
 - [x] Intermediate Algebra Course--Class 37: Test III
 - [x] Intermediate Algebra Course--Class 38: Transformations and the Library of Relations
 - [x] Intermediate Algebra Course--Class 39: Transformations and the Library of Relations (Part II)
-- [ ] Intermediate Algebra Course--Class 40: Transformations and the Library of Relations (Part III)
+- [x] Intermediate Algebra Course--Class 40: Transformations and the Library of Relations (Part III)
 - [ ] Intermediate Algebra Course--Class 41: Transformations and the Library of Relations (Part IV)
 - [ ] Intermediate Algebra Course--Class 42: Transformations and the Library of Relations (Part V)
 - [ ] Intermediate Algebra Course--Class 43: Transformations and the Library of Relations (Part VI)
