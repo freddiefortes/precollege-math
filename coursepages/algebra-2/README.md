@@ -42,7 +42,7 @@
 - [x] Intermediate Algebra Course--Class 40: Transformations and the Library of Relations (Part III)
 - [x] Intermediate Algebra Course--Class 41: Transformations and the Library of Relations (Part IV)
 - [x] Intermediate Algebra Course--Class 42: Transformations and the Library of Relations (Part V)
-- [ ] Intermediate Algebra Course--Class 43: Transformations and the Library of Relations (Part VI)
+- [x] Intermediate Algebra Course--Class 43: Transformations and the Library of Relations (Part VI)
 - [ ] Intermediate Algebra Course--Class 44: Functions and Function Notation
 - [ ] Intermediate Algebra Course--Class 45: Functions and Function Notation (Part II)
 - [ ] Intermediate Algebra Course--Class 46: Functions and Function Notation (Part III)
