@@ -45,7 +45,7 @@
 - [x] Intermediate Algebra Course--Class 43: Transformations and the Library of Relations (Part VI)
 - [x] Intermediate Algebra Course--Class 44: Functions and Function Notation
 - [x] Intermediate Algebra Course--Class 45: Functions and Function Notation (Part II)
-- [ ] Intermediate Algebra Course--Class 46: Functions and Function Notation (Part III)
+- [x] Intermediate Algebra Course--Class 46: Functions and Function Notation (Part III)
 - [ ] Intermediate Algebra Course--Class 47: Functions and Function Notation (Part IV)
 - [ ] Intermediate Algebra Course--Class 48: Functions and Function Notation (Part V)
 - [ ] Intermediate Algebra Course--Class 49: Applications of Algebra (Part I)
