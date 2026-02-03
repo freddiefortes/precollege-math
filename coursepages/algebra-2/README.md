@@ -48,7 +48,7 @@
 - [x] Intermediate Algebra Course--Class 46: Functions and Function Notation (Part III)
 - [x] Intermediate Algebra Course--Class 47: Functions and Function Notation (Part IV)
 - [x] Intermediate Algebra Course--Class 48: Functions and Function Notation (Part V)
-- [ ] Intermediate Algebra Course--Class 49: Applications of Algebra (Part I)
+- [x] Intermediate Algebra Course--Class 49: Applications of Algebra (Part I)
 - [ ] Intermediate Algebra Course--Class 50: Applications of Algebra (Part II)
 - [ ] Intermediate Algebra Course--Class 51: Applications of Algebra (Part III)
 - [ ] Intermediate Algebra Course--Class 52: Review for Test IV
