@@ -52,7 +52,7 @@
 - [x] Intermediate Algebra Course--Class 50: Applications of Algebra (Part II)
 - [x] Intermediate Algebra Course--Class 51: Applications of Algebra (Part III)
 - [x] Intermediate Algebra Course--Class 52: Review for Test IV
-- [ ] Intermediate Algebra Course--Class 53: Test IV
+- [x] Intermediate Algebra Course--Class 53: Test IV
 - [ ] Intermediate Algebra Course--Class 54: Review for the Final Test
 - [ ] Intermediate Algebra Course--Class 55: The Final Test
 - [ ] Intermediate Algebra Course--Class 56: Calculating Your Course Grade
@@ -62,6 +62,7 @@ GRADES:
 - Test I: A (90/100)
 - Test II: A (100/100)
 - Test III: A (100/100)
+- Test IV: A (99/100)
 
 ---
 
