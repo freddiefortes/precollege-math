@@ -51,7 +51,7 @@
 - [x] Intermediate Algebra Course--Class 49: Applications of Algebra (Part I)
 - [x] Intermediate Algebra Course--Class 50: Applications of Algebra (Part II)
 - [x] Intermediate Algebra Course--Class 51: Applications of Algebra (Part III)
-- [ ] Intermediate Algebra Course--Class 52: Review for Test IV
+- [x] Intermediate Algebra Course--Class 52: Review for Test IV
 - [ ] Intermediate Algebra Course--Class 53: Test IV
 - [ ] Intermediate Algebra Course--Class 54: Review for the Final Test
 - [ ] Intermediate Algebra Course--Class 55: The Final Test
