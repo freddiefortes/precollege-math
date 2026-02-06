@@ -53,7 +53,7 @@
 - [x] Intermediate Algebra Course--Class 51: Applications of Algebra (Part III)
 - [x] Intermediate Algebra Course--Class 52: Review for Test IV
 - [x] Intermediate Algebra Course--Class 53: Test IV
-- [ ] Intermediate Algebra Course--Class 54: Review for the Final Test
+- [x] Intermediate Algebra Course--Class 54: Review for the Final Test
 - [ ] Intermediate Algebra Course--Class 55: The Final Test
 - [ ] Intermediate Algebra Course--Class 56: Calculating Your Course Grade
 
