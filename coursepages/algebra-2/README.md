@@ -57,7 +57,7 @@
 - [x] Intermediate Algebra Course--Class 55: The Final Test
 - [x] Intermediate Algebra Course--Class 56: Calculating Your Course Grade
 
-FINAL GRADE: A (9.81/10)
+FINAL GRADE: A (9.68/10)
 
 GRADES:
 

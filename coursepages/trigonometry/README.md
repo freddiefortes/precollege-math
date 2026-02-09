@@ -1,5 +1,53 @@
 # Trigonometry Course
 
+- [ ] Trigonometry Course--Class 1: An Introduction, Staying Organized, and the Course Content
+- [ ] Trigonometry Course--Class 2: The Six Basic Trigonometric Functions
+- [ ] Trigonometry Course--Class 3: Trigonometric Expressions with Angle Measures Greater than 90 Degrees
+- [ ] Trigonometry Course--Class 4: Continued Exploration of the Six Basic Trigonometric Functions
+- [ ] Trigonometry Course--Class 5: Continued Exploration of the Six Basic Trigonometric Functions (II)
+- [ ] Trigonometry Course--Class 6: Using the Pythagorean Theorem to Find the Six Trigonometric Ratios
+- [ ] Trigonometry Course--Class 7: Review for Test I
+- [ ] Trigonometry Course--Class 8: Test I
+- [ ] Trigonometry Course--Class 9: The Basic Trigonometric Identities
+- [ ] Trigonometry Course--Class 10: Proving Equations Using the Basic Trigonometric Identities
+- [ ] Trigonometry Course--Class 11: Trigonometric Equations
+- [ ] Trigonometry Course--Class 12: Trigonometric Equations (Part II)
+- [ ] Trigonometry Course--Class 13: The Sum and Difference Identities
+- [ ] Trigonometry Course--Class 14: The Double Angle Identities
+- [ ] Trigonometry Course--Class 15: The Half Angle Identities and More Double Angle Problems
+- [ ] Trigonometry Course--Class 16: More Identities
+- [ ] Trigonometry Course--Class 17: Review for Test II
+- [ ] Trigonometry Course--Class 18: Test II
+- [ ] Trigonometry Course--Class 19: Transforming the Graphs of Trigonometric Functions
+- [ ] Trigonometry Course--Class 20: Inverse Trigonometric Functions and Writing the Equations of Graphs
+- [ ] Trigonometry Course--Class 21: The Law of Sines (AAS, ASA)
+- [ ] Trigonometry Course--Class 22: The Law of Sines (Part II), the Ambiguous Case (SSA)
+- [ ] Trigonometry Course--Class 23: The Law of Cosines (SAS, SSS)
+- [ ] Trigonometry Course--Class 24: Review for Test III
+- [ ] Trigonometry Course--Class 25: Test III
+- [ ] Trigonometry Course--Class 26: The Radian Measure of an Angle
+- [ ] Trigonometry Course--Class 27: Applications of Radian Units for the Measures of Angles
+- [ ] Trigonometry Course--Class 28: Applications of Trigonometry
+- [ ] Trigonometry Course--Class 29: Evaluating Composite Trigonometric Functions
+- [ ] Trigonometry Course--Class 30: Evaluating Composite Trigonometric Functions (Part II)
+- [ ] Trigonometry Course--Class 31: A Few More Things
+- [ ] Trigonometry Course--Class 32: Review for Test IV
+- [ ] Trigonometry Course--Class 33: Test IV
+- [ ] Trigonometry Course--Class 34: Review for the Final Test
+- [ ] Trigonometry Course--Class 35: The Final Test
+- [ ] Trigonometry Course--Class 36: Calculating Your Course Grade
+
+GRADES:
+
+Final Grade: 
+
+- Test I: 
+- Test II: 
+- Test III: 
+- Test IV: 
+- Final Test: 
+---
+
 **Topics covered**:
 `sine`
 `cosine`
