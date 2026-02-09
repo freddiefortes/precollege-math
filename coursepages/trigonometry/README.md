@@ -1,7 +1,7 @@
 # Trigonometry Course
 
-- [ ] Trigonometry Course--Class 1: An Introduction, Staying Organized, and the Course Content
-- [ ] Trigonometry Course--Class 2: The Six Basic Trigonometric Functions
+- [x] Trigonometry Course--Class 1: An Introduction, Staying Organized, and the Course Content
+- [x] Trigonometry Course--Class 2: The Six Basic Trigonometric Functions
 - [ ] Trigonometry Course--Class 3: Trigonometric Expressions with Angle Measures Greater than 90 Degrees
 - [ ] Trigonometry Course--Class 4: Continued Exploration of the Six Basic Trigonometric Functions
 - [ ] Trigonometry Course--Class 5: Continued Exploration of the Six Basic Trigonometric Functions (II)
