@@ -4,7 +4,7 @@
 - [x] Trigonometry Course--Class 2: The Six Basic Trigonometric Functions
 - [x] Trigonometry Course--Class 3: Trigonometric Expressions with Angle Measures Greater than 90 Degrees
 - [x] Trigonometry Course--Class 4: Continued Exploration of the Six Basic Trigonometric Functions
-- [ ] Trigonometry Course--Class 5: Continued Exploration of the Six Basic Trigonometric Functions (II)
+- [x] Trigonometry Course--Class 5: Continued Exploration of the Six Basic Trigonometric Functions (II)
 - [ ] Trigonometry Course--Class 6: Using the Pythagorean Theorem to Find the Six Trigonometric Ratios
 - [ ] Trigonometry Course--Class 7: Review for Test I
 - [ ] Trigonometry Course--Class 8: Test I
