@@ -7,7 +7,7 @@
 - [x] Trigonometry Course--Class 5: Continued Exploration of the Six Basic Trigonometric Functions (II)
 - [x] Trigonometry Course--Class 6: Using the Pythagorean Theorem to Find the Six Trigonometric Ratios
 - [x] Trigonometry Course--Class 7: Review for Test I
-- [ ] Trigonometry Course--Class 8: Test I
+- [x] Trigonometry Course--Class 8: Test I
 - [ ] Trigonometry Course--Class 9: The Basic Trigonometric Identities
 - [ ] Trigonometry Course--Class 10: Proving Equations Using the Basic Trigonometric Identities
 - [ ] Trigonometry Course--Class 11: Trigonometric Equations
@@ -41,7 +41,7 @@ GRADES:
 
 Final Grade: 
 
-- Test I: 
+- Test I: A (98/100)
 - Test II: 
 - Test III: 
 - Test IV: 
