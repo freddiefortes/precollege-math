@@ -9,7 +9,7 @@
 - [x] Trigonometry Course--Class 7: Review for Test I
 - [x] Trigonometry Course--Class 8: Test I
 - [x] Trigonometry Course--Class 9: The Basic Trigonometric Identities
-- [ ] Trigonometry Course--Class 10: Proving Equations Using the Basic Trigonometric Identities
+- [x] Trigonometry Course--Class 10: Proving Equations Using the Basic Trigonometric Identities
 - [ ] Trigonometry Course--Class 11: Trigonometric Equations
 - [ ] Trigonometry Course--Class 12: Trigonometric Equations (Part II)
 - [ ] Trigonometry Course--Class 13: The Sum and Difference Identities
