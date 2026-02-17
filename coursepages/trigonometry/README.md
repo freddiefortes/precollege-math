@@ -11,7 +11,7 @@
 - [x] Trigonometry Course--Class 9: The Basic Trigonometric Identities
 - [x] Trigonometry Course--Class 10: Proving Equations Using the Basic Trigonometric Identities
 - [x] Trigonometry Course--Class 11: Trigonometric Equations
-- [ ] Trigonometry Course--Class 12: Trigonometric Equations (Part II)
+- [x] Trigonometry Course--Class 12: Trigonometric Equations (Part II)
 - [ ] Trigonometry Course--Class 13: The Sum and Difference Identities
 - [ ] Trigonometry Course--Class 14: The Double Angle Identities
 - [ ] Trigonometry Course--Class 15: The Half Angle Identities and More Double Angle Problems
@@ -39,7 +39,7 @@
 
 GRADES:
 
-Final Grade: 
+Final Grade:
 
 - Test I: A (99/100)
 - Test II: 
