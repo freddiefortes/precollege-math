@@ -13,7 +13,7 @@
 - [x] Trigonometry Course--Class 11: Trigonometric Equations
 - [x] Trigonometry Course--Class 12: Trigonometric Equations (Part II)
 - [x] Trigonometry Course--Class 13: The Sum and Difference Identities
-- [ ] Trigonometry Course--Class 14: The Double Angle Identities
+- [x] Trigonometry Course--Class 14: The Double Angle Identities
 - [ ] Trigonometry Course--Class 15: The Half Angle Identities and More Double Angle Problems
 - [ ] Trigonometry Course--Class 16: More Identities
 - [ ] Trigonometry Course--Class 17: Review for Test II
