@@ -16,7 +16,7 @@
 - [x] Trigonometry Course--Class 14: The Double Angle Identities
 - [x] Trigonometry Course--Class 15: The Half Angle Identities and More Double Angle Problems
 - [x] Trigonometry Course--Class 16: More Identities
-- [ ] Trigonometry Course--Class 17: Review for Test II
+- [x] Trigonometry Course--Class 17: Review for Test II
 - [ ] Trigonometry Course--Class 18: Test II
 - [ ] Trigonometry Course--Class 19: Transforming the Graphs of Trigonometric Functions
 - [ ] Trigonometry Course--Class 20: Inverse Trigonometric Functions and Writing the Equations of Graphs
