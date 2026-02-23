@@ -17,7 +17,7 @@
 - [x] Trigonometry Course--Class 15: The Half Angle Identities and More Double Angle Problems
 - [x] Trigonometry Course--Class 16: More Identities
 - [x] Trigonometry Course--Class 17: Review for Test II
-- [ ] Trigonometry Course--Class 18: Test II
+- [x] Trigonometry Course--Class 18: Test II
 - [ ] Trigonometry Course--Class 19: Transforming the Graphs of Trigonometric Functions
 - [ ] Trigonometry Course--Class 20: Inverse Trigonometric Functions and Writing the Equations of Graphs
 - [ ] Trigonometry Course--Class 21: The Law of Sines (AAS, ASA)
@@ -42,10 +42,11 @@ GRADES:
 Final Grade:
 
 - Test I: A (99/100)
-- Test II: 
+- Test II: (94/100)
 - Test III: 
 - Test IV: 
 - Final Test: 
+
 ---
 
 **Topics covered**:
