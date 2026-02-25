@@ -20,7 +20,7 @@
 - [x] Trigonometry Course--Class 18: Test II
 - [x] Trigonometry Course--Class 19: Transforming the Graphs of Trigonometric Functions
 - [x] Trigonometry Course--Class 20: Inverse Trigonometric Functions and Writing the Equations of Graphs
-- [ ] Trigonometry Course--Class 21: The Law of Sines (AAS, ASA)
+- [x] Trigonometry Course--Class 21: The Law of Sines (AAS, ASA)
 - [ ] Trigonometry Course--Class 22: The Law of Sines (Part II), the Ambiguous Case (SSA)
 - [ ] Trigonometry Course--Class 23: The Law of Cosines (SAS, SSS)
 - [ ] Trigonometry Course--Class 24: Review for Test III
