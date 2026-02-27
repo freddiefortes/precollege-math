@@ -24,7 +24,7 @@
 - [x] Trigonometry Course--Class 22: The Law of Sines (Part II), the Ambiguous Case (SSA)
 - [x] Trigonometry Course--Class 23: The Law of Cosines (SAS, SSS)
 - [x] Trigonometry Course--Class 24: Review for Test III
-- [ ] Trigonometry Course--Class 25: Test III
+- [x] Trigonometry Course--Class 25: Test III
 - [ ] Trigonometry Course--Class 26: The Radian Measure of an Angle
 - [ ] Trigonometry Course--Class 27: Applications of Radian Units for the Measures of Angles
 - [ ] Trigonometry Course--Class 28: Applications of Trigonometry
@@ -42,8 +42,8 @@ GRADES:
 Final Grade:
 
 - Test I: A (99/100)
-- Test II: (94/100)
-- Test III: 
+- Test II: A (94/100)
+- Test III: A (96/100)
 - Test IV: 
 - Final Test: 
 
