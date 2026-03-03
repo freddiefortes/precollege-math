@@ -28,7 +28,7 @@
 - [x] Trigonometry Course--Class 26: The Radian Measure of an Angle
 - [x] Trigonometry Course--Class 27: Applications of Radian Units for the Measures of Angles
 - [x] Trigonometry Course--Class 28: Applications of Trigonometry
-- [ ] Trigonometry Course--Class 29: Evaluating Composite Trigonometric Functions
+- [x] Trigonometry Course--Class 29: Evaluating Composite Trigonometric Functions
 - [ ] Trigonometry Course--Class 30: Evaluating Composite Trigonometric Functions (Part II)
 - [ ] Trigonometry Course--Class 31: A Few More Things
 - [ ] Trigonometry Course--Class 32: Review for Test IV
