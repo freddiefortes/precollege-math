@@ -30,7 +30,7 @@
 - [x] Trigonometry Course--Class 28: Applications of Trigonometry
 - [x] Trigonometry Course--Class 29: Evaluating Composite Trigonometric Functions
 - [x] Trigonometry Course--Class 30: Evaluating Composite Trigonometric Functions (Part II)
-- [ ] Trigonometry Course--Class 31: A Few More Things
+- [x] Trigonometry Course--Class 31: A Few More Things
 - [ ] Trigonometry Course--Class 32: Review for Test IV
 - [ ] Trigonometry Course--Class 33: Test IV
 - [ ] Trigonometry Course--Class 34: Review for the Final Test
