@@ -31,7 +31,7 @@
 - [x] Trigonometry Course--Class 29: Evaluating Composite Trigonometric Functions
 - [x] Trigonometry Course--Class 30: Evaluating Composite Trigonometric Functions (Part II)
 - [x] Trigonometry Course--Class 31: A Few More Things
-- [ ] Trigonometry Course--Class 32: Review for Test IV
+- [x] Trigonometry Course--Class 32: Review for Test IV
 - [ ] Trigonometry Course--Class 33: Test IV
 - [ ] Trigonometry Course--Class 34: Review for the Final Test
 - [ ] Trigonometry Course--Class 35: The Final Test
