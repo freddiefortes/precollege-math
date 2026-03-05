@@ -32,7 +32,7 @@
 - [x] Trigonometry Course--Class 30: Evaluating Composite Trigonometric Functions (Part II)
 - [x] Trigonometry Course--Class 31: A Few More Things
 - [x] Trigonometry Course--Class 32: Review for Test IV
-- [ ] Trigonometry Course--Class 33: Test IV
+- [x] Trigonometry Course--Class 33: Test IV
 - [ ] Trigonometry Course--Class 34: Review for the Final Test
 - [ ] Trigonometry Course--Class 35: The Final Test
 - [ ] Trigonometry Course--Class 36: Calculating Your Course Grade
@@ -44,7 +44,7 @@ Final Grade:
 - Test I: A (99/100)
 - Test II: A (94/100)
 - Test III: A (96/100)
-- Test IV: 
+- Test IV: A (95/100)
 - Final Test: 
 
 ---
