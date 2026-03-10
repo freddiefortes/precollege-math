@@ -49,6 +49,122 @@
 - [ ] Precalculus Course--Class 47: The Second Half of the Final Test
 - [ ] Precalculus Course--Class 48: Calculating Your Course Grade
 
+MATRICES
+
+- [ ] #66: Gauss-Jordan Two Variables
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #67: Gauss-Jordan Three Variables
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #68: Gauss-Jordan Four Variables
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #69: Introduction to Matrices
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #70: Matrix Addition & Subtraction
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #71: Scalar Multiplication
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #72: Matrix Multiplication
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #73: Inverse of a Matrix
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #74: Matrix Equations
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #75: Determinants Laplace Expansion
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #76: Determinants Triangular Form
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #77: Transpose of a Matrix
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #78: Adjugate of a Matrix
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #79: Inverse Adjugate & Determinant Method
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #80: Cramer's Rule 2 x 2
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #81: Cramer's Rule 3 x 3
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #82: Area of a Triangle (Determinants)
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #83: Collinear Points (Determinants)
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #84: Equation of a Line (Determinants)
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+
+VECTORS
+
+- [ ] #133: Introduction to Vectors (Magnitude & Direction Angle)
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #134: Operations with Vectors
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+- [ ] #135: Vectors - Dot Product
+    - [ ] Read: Lesson
+    - [ ] Watch: Lesson
+    - [ ] Practice Exam: Test Your Knowledge
+    - [ ] Take: Unit Test
+
 GRADES:
 
 Final Grade: 
