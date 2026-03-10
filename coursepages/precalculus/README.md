@@ -1,5 +1,66 @@
 # Precalculus Course
 
+- [x] Precalculus Course--Class 1: An Introduction, Staying Organized, and Course Content
+- [ ] Precalculus Course--Class 2: Polynomials (Part I) Review
+- [ ] Precalculus Course--Class 3: Polynomials (Part II), Long Division
+- [ ] Precalculus Course--Class 4: Polynomials (Part III), Long Division and Synthetic Division
+- [ ] Precalculus Course--Class 5: Polynomials (Part IV) Polynomial Equations with Degree Three or Greater
+- [ ] Precalculus Course--Class 6: Polynomials (Part V), Irrational or Complex Zeros, Factoring Methods
+- [ ] Precalculus Course--Class 7: Polynomials (Part VI), Graphs and Finding Equations Given Zeros
+- [ ] Precalculus Course--Class 8: Rational Functions
+- [ ] Precalculus Course--Class 9: Rational Functions (Part II)
+- [ ] Precalculus Course--Class 10: Solving Nonlinear Inequalities with Polynomial Expressions
+- [ ] Precalculus Course--Class 11: Solving Nonlinear Inequalities with Rational Expressions
+- [ ] Precalculus Course--Class 12: Review for Test I
+- [ ] Precalculus Course--Class 13: Test I
+- [ ] Precalculus Course--Class 14: The Conics (Part I)
+- [ ] Precalculus Course--Class 15: The Conics (Part II)
+- [ ] Precalculus Course--Class 16: The Conics (Part III)
+- [ ] Precalculus Course--Class 17: Sequences and Series
+- [ ] Precalculus Course--Class 18: Sequences and Series (Part II)
+- [ ] Precalculus Course--Class 19: Sequences and Series (Part III)
+- [ ] Precalculus Course--Class 20: Counting
+- [ ] Precalculus Course--Class 21: Counting (Part II)
+- [ ] Precalculus Course--Class 22: Probability
+- [ ] Precalculus Course--Class 23: The Binomial Theorem
+- [ ] Precalculus Course--Class 24: Review for Test II
+- [ ] Precalculus Course--Class 25: Test II
+- [ ] Precalculus Course--Class 26: Trigonometry Review
+- [ ] Precalculus Course--Class 27: Polar Coordinates
+- [ ] Precalculus Course--Class 28: Graphing Polar Equations and Converting to Rectangular Form
+- [ ] Precalculus Course--Class 29: Parametric Equations and Their Graphs
+- [ ] Precalculus Course--Class 30: Review on Functions and Function Notation
+- [ ] Precalculus Course--Class 31: Reflection, Symmetry, and Inversion
+- [ ] Precalculus Course--Class 32: Symmetric Functions and Review on Exponents and Logarithms
+- [ ] Precalculus Course--Class 33: Review for Test III
+- [ ] Precalculus Course--Class 34: Test III
+- [ ] Precalculus Course--Class 35: Inverse Functions
+- [ ] Precalculus Course--Class 36: Inverse Functions (Part II)
+- [ ] Precalculus Course--Class 37: Becoming More Fluent with Function Notation and Reviewing Curricula
+- [ ] Precalculus Course--Class 38: Average
+- [ ] Precalculus Course--Class 39: The Complex Plane and Graphing Polar Equations with Radian Units
+- [ ] Precalculus Course--Class 40: Applications
+- [ ] Precalculus Course--Class 41: Applications (Part II)
+- [ ] Precalculus Course--Class 42: Review for Test IV
+- [ ] Precalculus Course--Class 43: Test IV
+- [ ] Precalculus Course--Class 44: Review for the First Half of the Final Test
+- [ ] Precalculus Course--Class 45: The First Half of the Final Test
+- [ ] Precalculus Course--Class 46: Review for the Second Half of the Final Test
+- [ ] Precalculus Course--Class 47: The Second Half of the Final Test
+- [ ] Precalculus Course--Class 48: Calculating Your Course Grade
+
+GRADES:
+
+Final Grade: 
+
+- Test I: 
+- Test II: 
+- Test III: 
+- Test IV: 
+- Final Test: 
+
+---
+
 **Topics covered**:
 `polynomial long division`
 `synthetic division`
