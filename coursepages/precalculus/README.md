@@ -3,7 +3,7 @@
 - [x] Precalculus Course--Class 1: An Introduction, Staying Organized, and Course Content
 - [x] Precalculus Course--Class 2: Polynomials (Part I) Review
 - [x] Precalculus Course--Class 3: Polynomials (Part II), Long Division
-- [ ] Precalculus Course--Class 4: Polynomials (Part III), Long Division and Synthetic Division
+- [x] Precalculus Course--Class 4: Polynomials (Part III), Long Division and Synthetic Division
 - [ ] Precalculus Course--Class 5: Polynomials (Part IV) Polynomial Equations with Degree Three or Greater
 - [ ] Precalculus Course--Class 6: Polynomials (Part V), Irrational or Complex Zeros, Factoring Methods
 - [ ] Precalculus Course--Class 7: Polynomials (Part VI), Graphs and Finding Equations Given Zeros
