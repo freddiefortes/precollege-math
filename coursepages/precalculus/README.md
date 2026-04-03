@@ -6,7 +6,7 @@
 - [x] Precalculus Course--Class 4: Polynomials (Part III), Long Division and Synthetic Division
 - [x] Precalculus Course--Class 5: Polynomials (Part IV) Polynomial Equations with Degree Three or Greater
 - [x] Precalculus Course--Class 6: Polynomials (Part V), Irrational or Complex Zeros, Factoring Methods
-- [ ] Precalculus Course--Class 7: Polynomials (Part VI), Graphs and Finding Equations Given Zeros
+- [x] Precalculus Course--Class 7: Polynomials (Part VI), Graphs and Finding Equations Given Zeros
 - [ ] Precalculus Course--Class 8: Rational Functions
 - [ ] Precalculus Course--Class 9: Rational Functions (Part II)
 - [ ] Precalculus Course--Class 10: Solving Nonlinear Inequalities with Polynomial Expressions
