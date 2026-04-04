@@ -7,7 +7,7 @@
 - [x] Precalculus Course--Class 5: Polynomials (Part IV) Polynomial Equations with Degree Three or Greater
 - [x] Precalculus Course--Class 6: Polynomials (Part V), Irrational or Complex Zeros, Factoring Methods
 - [x] Precalculus Course--Class 7: Polynomials (Part VI), Graphs and Finding Equations Given Zeros
-- [ ] Precalculus Course--Class 8: Rational Functions
+- [x] Precalculus Course--Class 8: Rational Functions
 - [ ] Precalculus Course--Class 9: Rational Functions (Part II)
 - [ ] Precalculus Course--Class 10: Solving Nonlinear Inequalities with Polynomial Expressions
 - [ ] Precalculus Course--Class 11: Solving Nonlinear Inequalities with Rational Expressions
