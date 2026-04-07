@@ -10,7 +10,7 @@
 - [x] Precalculus Course--Class 8: Rational Functions
 - [x] Precalculus Course--Class 9: Rational Functions (Part II)
 - [x] Precalculus Course--Class 10: Solving Nonlinear Inequalities with Polynomial Expressions
-- [ ] Precalculus Course--Class 11: Solving Nonlinear Inequalities with Rational Expressions
+- [x] Precalculus Course--Class 11: Solving Nonlinear Inequalities with Rational Expressions
 - [ ] Precalculus Course--Class 12: Review for Test I
 - [ ] Precalculus Course--Class 13: Test I
 - [ ] Precalculus Course--Class 14: The Conics (Part I)
