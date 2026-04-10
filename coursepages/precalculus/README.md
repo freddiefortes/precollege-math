@@ -13,7 +13,7 @@
 - [x] Precalculus Course--Class 11: Solving Nonlinear Inequalities with Rational Expressions
 - [x] Precalculus Course--Class 12: Review for Test I
 - [x] Precalculus Course--Class 13: Test I
-- [ ] Precalculus Course--Class 14: The Conics (Part I)
+- [x] Precalculus Course--Class 14: The Conics (Part I)
 - [ ] Precalculus Course--Class 15: The Conics (Part II)
 - [ ] Precalculus Course--Class 16: The Conics (Part III)
 - [ ] Precalculus Course--Class 17: Sequences and Series
