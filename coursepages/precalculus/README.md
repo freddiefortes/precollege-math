@@ -12,7 +12,7 @@
 - [x] Precalculus Course--Class 10: Solving Nonlinear Inequalities with Polynomial Expressions
 - [x] Precalculus Course--Class 11: Solving Nonlinear Inequalities with Rational Expressions
 - [x] Precalculus Course--Class 12: Review for Test I
-- [ ] Precalculus Course--Class 13: Test I
+- [x] Precalculus Course--Class 13: Test I
 - [ ] Precalculus Course--Class 14: The Conics (Part I)
 - [ ] Precalculus Course--Class 15: The Conics (Part II)
 - [ ] Precalculus Course--Class 16: The Conics (Part III)
@@ -169,7 +169,7 @@ GRADES:
 
 Final Grade: 
 
-- Test I: 
+- Test I: A (92%)
 - Test II: 
 - Test III: 
 - Test IV: 
