@@ -15,7 +15,7 @@
 - [x] Precalculus Course--Class 13: Test I
 - [x] Precalculus Course--Class 14: The Conics (Part I)
 - [x] Precalculus Course--Class 15: The Conics (Part II)
-- [ ] Precalculus Course--Class 16: The Conics (Part III)
+- [x] Precalculus Course--Class 16: The Conics (Part III)
 - [ ] Precalculus Course--Class 17: Sequences and Series
 - [ ] Precalculus Course--Class 18: Sequences and Series (Part II)
 - [ ] Precalculus Course--Class 19: Sequences and Series (Part III)
