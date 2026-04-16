@@ -21,7 +21,7 @@
 - [x] Precalculus Course--Class 19: Sequences and Series (Part III)
 - [x] Precalculus Course--Class 20: Counting
 - [x] Precalculus Course--Class 21: Counting (Part II)
-- [ ] Precalculus Course--Class 22: Probability
+- [x] Precalculus Course--Class 22: Probability
 - [ ] Precalculus Course--Class 23: The Binomial Theorem
 - [ ] Precalculus Course--Class 24: Review for Test II
 - [ ] Precalculus Course--Class 25: Test II
