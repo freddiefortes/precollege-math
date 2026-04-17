@@ -22,7 +22,7 @@
 - [x] Precalculus Course--Class 20: Counting
 - [x] Precalculus Course--Class 21: Counting (Part II)
 - [x] Precalculus Course--Class 22: Probability
-- [ ] Precalculus Course--Class 23: The Binomial Theorem
+- [x] Precalculus Course--Class 23: The Binomial Theorem
 - [ ] Precalculus Course--Class 24: Review for Test II
 - [ ] Precalculus Course--Class 25: Test II
 - [ ] Precalculus Course--Class 26: Trigonometry Review
