@@ -39,9 +39,9 @@
 
 GRADES:
 
-Final Grade: A (95%)
+FINAL GRADE: A (95%)
 
-- Test I: A (99/100)
+- Test I: A+ (99/100)
 - Test II: A (94/100)
 - Test III: A (96/100)
 - Test IV: A (95/100)

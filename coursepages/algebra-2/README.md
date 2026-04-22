@@ -57,14 +57,14 @@
 - [x] Intermediate Algebra Course--Class 55: The Final Test
 - [x] Intermediate Algebra Course--Class 56: Calculating Your Course Grade
 
-FINAL GRADE: A (9.68/10)
+FINAL GRADE: A (96.83%)
 
 GRADES:
 
-- Test I: A (90/100)
-- Test II: A (100/100)
-- Test III: A (100/100)
-- Test IV: A (99/100)
+- Test I: A- (90/100)
+- Test II: A+ (100/100)
+- Test III: A+ (100/100)
+- Test IV: A+ (99/100)
 - Test V: A (192/200)
 
 ---

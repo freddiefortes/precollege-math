@@ -23,7 +23,7 @@
 - [x] Precalculus Course--Class 21: Counting (Part II)
 - [x] Precalculus Course--Class 22: Probability
 - [x] Precalculus Course--Class 23: The Binomial Theorem
-- [ ] Precalculus Course--Class 24: Review for Test II
+- [x] Precalculus Course--Class 24: Review for Test II
 - [ ] Precalculus Course--Class 25: Test II
 - [ ] Precalculus Course--Class 26: Trigonometry Review
 - [ ] Precalculus Course--Class 27: Polar Coordinates
@@ -167,9 +167,9 @@ VECTORS
 
 GRADES:
 
-Final Grade: 
+FINAL GRADE: 
 
-- Test I: A (92%)
+- Test I: A- (92/100)
 - Test II: 
 - Test III: 
 - Test IV: 
