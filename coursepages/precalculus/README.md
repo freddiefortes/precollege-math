@@ -24,7 +24,7 @@
 - [x] Precalculus Course--Class 22: Probability
 - [x] Precalculus Course--Class 23: The Binomial Theorem
 - [x] Precalculus Course--Class 24: Review for Test II
-- [ ] Precalculus Course--Class 25: Test II
+- [x] Precalculus Course--Class 25: Test II
 - [ ] Precalculus Course--Class 26: Trigonometry Review
 - [ ] Precalculus Course--Class 27: Polar Coordinates
 - [ ] Precalculus Course--Class 28: Graphing Polar Equations and Converting to Rectangular Form
@@ -170,7 +170,7 @@ GRADES:
 FINAL GRADE: 
 
 - Test I: A- (92/100)
-- Test II: 
+- Test II: A (96/100)
 - Test III: 
 - Test IV: 
 - Final Test: 
