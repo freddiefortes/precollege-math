@@ -25,7 +25,7 @@
 - [x] Precalculus Course--Class 23: The Binomial Theorem
 - [x] Precalculus Course--Class 24: Review for Test II
 - [x] Precalculus Course--Class 25: Test II
-- [ ] Precalculus Course--Class 26: Trigonometry Review
+- [x] Precalculus Course--Class 26: Trigonometry Review
 - [ ] Precalculus Course--Class 27: Polar Coordinates
 - [ ] Precalculus Course--Class 28: Graphing Polar Equations and Converting to Rectangular Form
 - [ ] Precalculus Course--Class 29: Parametric Equations and Their Graphs
