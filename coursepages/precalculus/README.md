@@ -27,8 +27,8 @@
 - [x] Precalculus Course--Class 25: Test II
 - [x] Precalculus Course--Class 26: Trigonometry Review
 - [x] Precalculus Course--Class 27: Polar Coordinates
-- [ ] Precalculus Course--Class 28: Graphing Polar Equations and Converting to Rectangular Form
-- [ ] Precalculus Course--Class 29: Parametric Equations and Their Graphs
+- [x] Precalculus Course--Class 28: Graphing Polar Equations and Converting to Rectangular Form
+- [x] Precalculus Course--Class 29: Parametric Equations and Their Graphs
 - [ ] Precalculus Course--Class 30: Review on Functions and Function Notation
 - [ ] Precalculus Course--Class 31: Reflection, Symmetry, and Inversion
 - [ ] Precalculus Course--Class 32: Symmetric Functions and Review on Exponents and Logarithms
