@@ -30,7 +30,7 @@
 - [x] Precalculus Course--Class 28: Graphing Polar Equations and Converting to Rectangular Form
 - [x] Precalculus Course--Class 29: Parametric Equations and Their Graphs
 - [x] Precalculus Course--Class 30: Review on Functions and Function Notation
-- [ ] Precalculus Course--Class 31: Reflection, Symmetry, and Inversion
+- [x] Precalculus Course--Class 31: Reflection, Symmetry, and Inversion
 - [ ] Precalculus Course--Class 32: Symmetric Functions and Review on Exponents and Logarithms
 - [ ] Precalculus Course--Class 33: Review for Test III
 - [ ] Precalculus Course--Class 34: Test III
