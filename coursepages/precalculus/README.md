@@ -31,8 +31,8 @@
 - [x] Precalculus Course--Class 29: Parametric Equations and Their Graphs
 - [x] Precalculus Course--Class 30: Review on Functions and Function Notation
 - [x] Precalculus Course--Class 31: Reflection, Symmetry, and Inversion
-- [ ] Precalculus Course--Class 32: Symmetric Functions and Review on Exponents and Logarithms
-- [ ] Precalculus Course--Class 33: Review for Test III
+- [x] Precalculus Course--Class 32: Symmetric Functions and Review on Exponents and Logarithms
+- [x] Precalculus Course--Class 33: Review for Test III
 - [ ] Precalculus Course--Class 34: Test III
 - [ ] Precalculus Course--Class 35: Inverse Functions
 - [ ] Precalculus Course--Class 36: Inverse Functions (Part II)
