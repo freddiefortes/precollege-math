@@ -33,7 +33,7 @@
 - [x] Precalculus Course--Class 31: Reflection, Symmetry, and Inversion
 - [x] Precalculus Course--Class 32: Symmetric Functions and Review on Exponents and Logarithms
 - [x] Precalculus Course--Class 33: Review for Test III
-- [ ] Precalculus Course--Class 34: Test III
+- [x] Precalculus Course--Class 34: Test III
 - [ ] Precalculus Course--Class 35: Inverse Functions
 - [ ] Precalculus Course--Class 36: Inverse Functions (Part II)
 - [ ] Precalculus Course--Class 37: Becoming More Fluent with Function Notation and Reviewing Curricula
@@ -171,7 +171,7 @@ FINAL GRADE:
 
 - Test I: A- (92/100)
 - Test II: A (96/100)
-- Test III: 
+- Test III: A+ (97/100)
 - Test IV: 
 - Final Test: 
 
