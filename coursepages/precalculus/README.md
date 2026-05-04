@@ -35,7 +35,7 @@
 - [x] Precalculus Course--Class 33: Review for Test III
 - [x] Precalculus Course--Class 34: Test III
 - [x] Precalculus Course--Class 35: Inverse Functions
-- [ ] Precalculus Course--Class 36: Inverse Functions (Part II)
+- [x] Precalculus Course--Class 36: Inverse Functions (Part II)
 - [ ] Precalculus Course--Class 37: Becoming More Fluent with Function Notation and Reviewing Curricula
 - [ ] Precalculus Course--Class 38: Average
 - [ ] Precalculus Course--Class 39: The Complex Plane and Graphing Polar Equations with Radian Units
