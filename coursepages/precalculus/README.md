@@ -41,7 +41,7 @@
 - [x] Precalculus Course--Class 39: The Complex Plane and Graphing Polar Equations with Radian Units
 - [x] Precalculus Course--Class 40: Applications
 - [x] Precalculus Course--Class 41: Applications (Part II)
-- [ ] Precalculus Course--Class 42: Review for Test IV
+- [x] Precalculus Course--Class 42: Review for Test IV
 - [ ] Precalculus Course--Class 43: Test IV
 - [ ] Precalculus Course--Class 44: Review for the First Half of the Final Test
 - [ ] Precalculus Course--Class 45: The First Half of the Final Test
