@@ -43,8 +43,8 @@
 - [x] Precalculus Course--Class 41: Applications (Part II)
 - [x] Precalculus Course--Class 42: Review for Test IV
 - [x] Precalculus Course--Class 43: Test IV
-- [ ] Precalculus Course--Class 44: Review for the First Half of the Final Test
-- [ ] Precalculus Course--Class 45: The First Half of the Final Test
+- [x] Precalculus Course--Class 44: Review for the First Half of the Final Test
+- [x] Precalculus Course--Class 45: The First Half of the Final Test
 - [ ] Precalculus Course--Class 46: Review for the Second Half of the Final Test
 - [ ] Precalculus Course--Class 47: The Second Half of the Final Test
 - [ ] Precalculus Course--Class 48: Calculating Your Course Grade
@@ -173,7 +173,7 @@ FINAL GRADE:
 - Test II: A (96/100)
 - Test III: A+ (98/100)
 - Test IV: A+ (99/100)
-- Final Test: 
+- Final Test: (100/100 + ...)
 
 ---
 
