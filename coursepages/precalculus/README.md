@@ -46,8 +46,8 @@
 - [x] Precalculus Course--Class 44: Review for the First Half of the Final Test
 - [x] Precalculus Course--Class 45: The First Half of the Final Test
 - [x] Precalculus Course--Class 46: Review for the Second Half of the Final Test
-- [ ] Precalculus Course--Class 47: The Second Half of the Final Test
-- [ ] Precalculus Course--Class 48: Calculating Your Course Grade
+- [x] Precalculus Course--Class 47: The Second Half of the Final Test
+- [x] Precalculus Course--Class 48: Calculating Your Course Grade
 
 MATRICES
 
@@ -167,13 +167,13 @@ VECTORS
 
 GRADES:
 
-FINAL GRADE: 
+FINAL GRADE: A (96.17%)
 
 - Test I: A- (92/100)
 - Test II: A (96/100)
 - Test III: A+ (98/100)
 - Test IV: A+ (99/100)
-- Final Test: (100/100 + ...)
+- Final Test: A (192/200 (100/100 + 92/100))
 
 ---
 
