@@ -49,13 +49,19 @@
 - [x] Precalculus Course--Class 47: The Second Half of the Final Test
 - [x] Precalculus Course--Class 48: Calculating Your Course Grade
 
+GRADES:
+
+FINAL GRADE: A (96.17%)
+
+- Test I: A- (92/100)
+- Test II: A (96/100)
+- Test III: A+ (98/100)
+- Test IV: A+ (99/100)
+- Final Test: A (192/200 (100/100 + 92/100))
+
 MATRICES
 
-- [ ] #66: Gauss-Jordan Two Variables
-    - [ ] Read: Lesson
-    - [ ] Watch: Lesson
-    - [ ] Practice Exam: Test Your Knowledge
-    - [ ] Take: Unit Test
+- [x] #66: Gauss-Jordan Two Variables (Test: 100%)
 - [ ] #67: Gauss-Jordan Three Variables
     - [ ] Read: Lesson
     - [ ] Watch: Lesson
@@ -164,16 +170,6 @@ VECTORS
     - [ ] Watch: Lesson
     - [ ] Practice Exam: Test Your Knowledge
     - [ ] Take: Unit Test
-
-GRADES:
-
-FINAL GRADE: A (96.17%)
-
-- Test I: A- (92/100)
-- Test II: A (96/100)
-- Test III: A+ (98/100)
-- Test IV: A+ (99/100)
-- Final Test: A (192/200 (100/100 + 92/100))
 
 ---
 
